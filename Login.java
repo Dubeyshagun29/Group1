@@ -6,7 +6,7 @@ public static void main(String[] args) {
     String Password;
 
     Password = "123";
-    Username = "Henry";
+    Username = "Hike";
 
     Scanner input1 = new Scanner(System.in);
     System.out.println("Enter Username : ");
