@@ -20,7 +20,11 @@ public class User_Authentication
 
         password = s.nextLine();
 
+<<<<<<< HEAD
         if(username.equals("admin9845") && password.equals("user"))
+=======
+        if(username.equals("admin") && password.equals("admin"))
+>>>>>>> branch 'master' of https://github.com/Dubeyshagun29/Group1.git
 
         {
 
