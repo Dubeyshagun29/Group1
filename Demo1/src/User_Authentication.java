@@ -20,7 +20,7 @@ public class User_Authentication
 
         password = s.nextLine();
 
-        if(username.equals("admin") && password.equals("user"))
+        if(username.equals("admin123") && password.equals("user"))
 
         {
 
